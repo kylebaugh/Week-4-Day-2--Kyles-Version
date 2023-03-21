@@ -1,7 +1,5 @@
 const form = document.querySelector('form')
 
-const kayakArr = []
-
 const baseURL = `http://localhost:4004/api/houses`
 
 
